@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.active{
+    @apply px-2 py-2 bg-teal-500 text-white 
+}
